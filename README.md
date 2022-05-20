@@ -1,16 +1,15 @@
-Hi mates, I'm Yuvaraaj
+### Hi there 👋, Im Yuvaraaj  K
+#### Vice President at Spotknack Talent Community | Unique | App Developer mentee |
+A droplet, with many flaws, which has become its own identity have made a path to an Ocean.
+He never give up on his Volunteerism and Leadership Quality
 
-I am a Second year student at MCET Pollachi, pursuing my Bachelors in COMPUTER SCIENCE.
-And also a curious and an open person to gain new skills.
-Now I'm an active budding App Developer at SPOTKNACK
-Besides Tech Skills, currently I'm moulding myself to a Professional Person.
-Also I'm swimming in Japanese Art, ORIGAMI, my unique and most favourite Hobby.
+Skills: Android Studio  |  Flutter
 
-To tweet : https://twitter.com/Yuvaraaj__K?t=TMEcDP1uBdZQPyOkbikjKw&s=09
+- 🌱 I’m currently learning App Development in Flutter 
 
-To connect : https://www.linkedin.com/in/yuvaraaj-20bcs086
 
-<!---
-Yuvaraaj086/Yuvaraaj086 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Yuvaraaj086)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yuvaraaj086/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Yuvaraaj__K)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuvaraaj086&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/Yuvaraaj086)  
