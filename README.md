@@ -1,11 +1,5 @@
 ### Hi there 👋, Im Yuvaraaj    
-#### Budding App Developer
-Vice President at Spotknack Talent Community | Unique | App Developer mentee 
 
-Skills: Android Studio  |  Flutter
-
-- 🔭 I’m currently working on Projects in Flutter 
-- 🌱 I’m currently learning App Development in Flutter 
 - 📫 How to reach me: Telegram  :   https://t.me/itz_yema 
 
 
